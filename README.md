@@ -1,2 +1,2 @@
 # MyChatterBotSample
-ChatterBot sample
+ChatterBot sample in Python
